@@ -1,0 +1,9 @@
+H:\blockchain\workspace\netcore\bin\Debug\netstandard2.0\Huiali.Blockchain.deps.json
+H:\blockchain\workspace\netcore\bin\Debug\netstandard2.0\Huiali.Blockchain.dll
+H:\blockchain\workspace\netcore\bin\Debug\netstandard2.0\Huiali.Blockchain.pdb
+H:\blockchain\workspace\netcore\obj\Debug\netstandard2.0\Huiali.Blockchain.csprojAssemblyReference.cache
+H:\blockchain\workspace\netcore\obj\Debug\netstandard2.0\Huiali.Blockchain.csproj.CoreCompileInputs.cache
+H:\blockchain\workspace\netcore\obj\Debug\netstandard2.0\Huiali.Blockchain.AssemblyInfoInputs.cache
+H:\blockchain\workspace\netcore\obj\Debug\netstandard2.0\Huiali.Blockchain.AssemblyInfo.cs
+H:\blockchain\workspace\netcore\obj\Debug\netstandard2.0\Huiali.Blockchain.dll
+H:\blockchain\workspace\netcore\obj\Debug\netstandard2.0\Huiali.Blockchain.pdb
